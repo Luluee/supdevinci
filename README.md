@@ -43,7 +43,7 @@ You MUST create 3 virtual machines. One named `[last-name]-master` and the other
 4. Create a NodePort service for service that require public exposure
 5. Make sure you use `ConfigMap` for everything related to application configs and `Secrets` for everything related to sensitive data.
 
-   - Please NEVER EVER commit sensitive informations in cloud. You can replace the values of sensitive informations with <PLACE_HOLDERS>
+   - Please NEVER EVER commit sensitive informations in github. You can replace the values of sensitive informations with <PLACE_HOLDERS>
 
 **_Note:_** Please be aware that I have provided a docker compose yaml file that you can refer for some useful informations in order to build your kubernetes manifests.
 
@@ -66,4 +66,4 @@ Create a terraform deployment that automatically provision the virtual machines
 - For the README file, it should be called `SUBMISSION.md`
 - The PEPAL submition named `WhoRunTheWorld` is created for you to submit your work.
 
-# You need to submit before 17AM today.
+# You need to submit before 5PM today.
