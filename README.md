@@ -61,6 +61,7 @@ Create a terraform deployment that automatically provision the virtual machines
 
 - You need to submit your own public github repository with the required files that demonstrate your work.
 - You need to write a complete, clean README like a pdf rendering (summary, table of content, sections, images etc...)
+- Please provide screenshot of all the commands you run in your rendering.
   The README should contain everything needed to demonstrate your work
 - You need to write a clean pdf documente that present your work in details
 - For the README file, it should be called `SUBMISSION.md`
